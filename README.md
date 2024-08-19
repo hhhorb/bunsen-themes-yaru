@@ -1,3 +1,3 @@
 # bunsen-themes-yaru
 
-Yaru And Yaru-bark themes for BunsenLabs.
+Yaru, Yaru-bark and Yaru-sage themes for BunsenLabs.
